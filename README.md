@@ -1,1 +1,1 @@
-# Simple-Gussian-Filter
+# Computer-VIsion-Image-Processing
